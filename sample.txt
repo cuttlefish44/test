@@ -1,1 +1,1 @@
-サルでもわかるGitコマンド
+This is a sample file.
